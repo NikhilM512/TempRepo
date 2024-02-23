@@ -1,4 +1,4 @@
-./node_modules/
-./package-lock.json
-./gitignore
+/node_modules
+/package-lock.json
+/gitignore
 /Hello/index.html
